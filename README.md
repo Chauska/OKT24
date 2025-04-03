@@ -1,5 +1,5 @@
-[!NOTE]
-This repository is used as a tool to exercise working with Git in the course Programming 1. 
+> [!NOTE]
+> This repository is used as a tool to exercise working with Git in the course Programming 1. 
 
 # Programming 1 - Git Exercise
 
